@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("image/WhatsApp\ Image\ 2024-05-06\ at\ 18.35.07_327754d3.jpg") ;
+    background-size: cover;
+}
+
+nav {
+    direction: rtl;
+    text-align: right;
+    padding: 10px 0;
+}
+
+nav ul {
+   
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    color: black;
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: rgb(88, 87, 87);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a.active {
+    font-weight: bold;
+    color: rgb(2, 159, 216);
+}
+div h1{
+    padding-top: 170px;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(252, 252, 253);
+}
+div table{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-left:  585px;
+    height: 400px ;
+    
+}
